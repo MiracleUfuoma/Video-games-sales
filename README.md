@@ -1,4 +1,5 @@
-![Screenshot (1)](https://github.com/MiracleUfuoma/Video-games-sales/assets/146808167/0f1fecef-63e6-4d36-bdad-54b5430ae8cb)
+![Screenshot (1)](https://github.com/MiracleUfuoma/Video-games-sales/assets/146808167/6e4c7060-041e-4903-8e7d-4f6c6b0258d1)
+
 # Video-games-sales
 **ANALYSIS OBJECTIVES**:
  Examine sales trends
